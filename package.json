@@ -1,0 +1,20 @@
+{
+  "name": "npm_deploy",
+  "version": "1.0.0",
+  "description": "Demonstrates using npm scripts to deploy to Vagrant",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "deploy": "./deploy.sh"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rekibnikufesin/npm-deploy.git"
+  },
+  "author": "Will Button",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rekibnikufesin/npm-deploy/issues"
+  },
+  "homepage": "https://github.com/rekibnikufesin/npm-deploy#readme"
+}
